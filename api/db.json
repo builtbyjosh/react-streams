@@ -1,3 +1,14 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "coding happy hour",
+      "description": "time for functional drinks",
+      "id": 1
+    },
+    {
+      "title": "Bloggin",
+      "description": "Watch me write a blog post",
+      "id": 2
+    }
+  ]
 }
