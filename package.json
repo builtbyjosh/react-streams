@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "flv.js": "^1.6.1",
     "lodash": "^4.17.21"
   }
 }

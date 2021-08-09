@@ -2,7 +2,25 @@
 # yarn lockfile v1
 
 
-lodash@^4.17.21:
-  version "4.17.21"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
-  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
+"es6-promise@^4.2.8":
+  "integrity" "sha512-HJDGx5daxeIvxdBxvG2cb9g4tEvwIk3i8+nhX0yGrYmZUzbkdg8QbDevheDB8gd0//uPj4c1EQua8Q+MViT0/w=="
+  "resolved" "https://registry.npmjs.org/es6-promise/-/es6-promise-4.2.8.tgz"
+  "version" "4.2.8"
+
+"flv.js@^1.6.1":
+  "integrity" "sha512-6/ffUPbFaYf7QsdcZC43PQmEsi9Fwlp89Oq0bz8gNlj0eSMUhyHFxESxuLNSFgIEle+ChxqoF7kL2pL7xdam2A=="
+  "resolved" "https://registry.npmjs.org/flv.js/-/flv.js-1.6.1.tgz"
+  "version" "1.6.1"
+  dependencies:
+    "es6-promise" "^4.2.8"
+    "webworkify-webpack" "^2.1.5"
+
+"lodash@^4.17.21":
+  "integrity" "sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg=="
+  "resolved" "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz"
+  "version" "4.17.21"
+
+"webworkify-webpack@^2.1.5":
+  "integrity" "sha512-2akF8FIyUvbiBBdD+RoHpoTbHMQF2HwjcxfDvgztAX5YwbZNyrtfUMgvfgFVsgDhDPVTlkbb5vyasqDHfIDPQw=="
+  "resolved" "https://registry.npmjs.org/webworkify-webpack/-/webworkify-webpack-2.1.5.tgz"
+  "version" "2.1.5"
